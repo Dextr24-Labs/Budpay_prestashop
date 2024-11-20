@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>budpaypayment</name>
+    <displayName>BudPay Payment Gateway</displayName>
+    <version>1.0.0</version>
+    <author>Your Name</author>
+    <tab>payments_gateways</tab>
+    <description>Redirect users to BudPay to complete their payment.</description>
+    <is_configurable>0</is_configurable>
+    <bootstrap>1</bootstrap>
+</module>
